@@ -8,10 +8,14 @@ See the colors and learn more about the project: https://spacecolors.io
 ## Instructions
 You'll find the colors in the spaceBodiesColors.css file. All CSS classes assign the colors as backgrounds. Each space body has three colors and a gradient:
 
-* **Primary color** The most predominant natural accurate color that is considered to be the most representative color of the space body.
-* **Secondary color** A second natural accurate color that is also considered to be representative of the space body.
-* **Tertiary color** A third natural accurate color that is also considered to be representative of the space body.
-* **Gradient** A vertical gradient using various natural and accurate colors of the space body that represents a simplified but representative view of the contrasts, variances and characteristics.
+* **Primary color**
+The most predominant natural accurate color that is considered to be the most representative color of the space body.
+* **Secondary color**
+A second natural accurate color that is also considered to be representative of the space body.
+* **Tertiary color**
+A third natural accurate color that is also considered to be representative of the space body.
+* **Gradient**
+A vertical gradient using various natural and accurate colors of the space body that represents a simplified but representative view of the contrasts, variances and characteristics.
 
 ## Currently documented space bodies
 
@@ -30,19 +34,19 @@ You'll find the colors in the spaceBodiesColors.css file. All CSS classes assign
 ## How to use
 Import the spaceBodiesColors.css file to your project and assign the CSS classes in your HTML as follows:
 
-* **.spaceBodyBackgroundColor.[Space body name].primary**
+* `.spaceBodyBackgroundColor.[Space body name].primary`
 To color the element's background with the primary color of the space body.
 
-* **.spaceBodyBackgroundColor.[Space body name].secondary**
+* `.spaceBodyBackgroundColor.[Space body name].secondary`
 To color the element's background with the secondary color of the space body.
 
-* **.spaceBodyBackgroundColor.[Space body name].tertiary**
+* `.spaceBodyBackgroundColor.[Space body name].tertiary`
 To color the element's background with the tertiary color of the space body.
 
-* **.spaceBodyBackgroundGradient.[Space body name]**
+* `.spaceBodyBackgroundGradient.[Space body name]`
 To color the element's background with a vertical gradient that represents the space body.
 
-Of course, you can just take a look at the Red, Green and Blue values in the CSS code and use the color for any specific purposes. If you're new to CSS, you'll find the colors there in the syntax: .spaceBodyBackgroundColor.**[Space body name]**.primary { background-color: rgb(**[Red]**,**[Green]**,**[Blue]**); }
+Of course, you can just take a look at the Red, Green and Blue values in the CSS code and use the color for any specific purposes. If you're new to CSS, you'll find the colors there in the syntax: `.spaceBodyBackgroundColor.**[Space body name]**.primary { background-color: rgb(**[Red]**,**[Green]**,**[Blue]**); }`
 
 # References
 
@@ -66,6 +70,6 @@ Of course, you can just take a look at the Red, Green and Blue values in the CSS
 * NASA [New Horizons](https://www.nasa.gov/mission_pages/newhorizons/main/index.html) mission (Pluto)
 * [Uranus in true and false color](https://www.nasa.gov/mission_pages/voyager/pia00032.html) by NASA
 
-This work was inspired by the book ["Pale blue dot"](http://amzn.to/2jpFGHW) by Carl Sagan and Gustav Holst's suite ["The Planets"](http://amzn.to/2iaLngF
+This work was inspired by the book ["Pale blue dot"](http://amzn.to/2jpFGHW) by Carl Sagan and Gustav Holst's suite ["The Planets"](http://amzn.to/2iaLngF)
 
-This work is licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/), meaning anyone can use it, modify it, even for commercial purposes, as long as you provide credit to the original authors. (A link to http://spacecolors.io, for example!)
+This work is licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/), meaning you can use, modify and build upon it even for commercial purposes, as long as you provide credit to the original authors, a link to http://spacecolors.io, for example!
