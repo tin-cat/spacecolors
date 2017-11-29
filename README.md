@@ -17,6 +17,8 @@ A third natural accurate color that is also considered to be representative of t
 * **Gradient**
 A vertical gradient using various natural and accurate colors of the space body that represents a simplified but representative view of the contrasts, variances and characteristics.
 
+If you're a PHP programmer, you can also include the spaceBodiesColors.php file in your code, the colors are specified there in the form of a PHP array.
+
 ## Currently documented space bodies
 
 * sun
@@ -47,6 +49,13 @@ To color the element's background with the tertiary color of the space body.
 To color the element's background with a vertical gradient that represents the space body.
 
 Of course, you can just take a look at the Red, Green and Blue values in the CSS code and use the color for any specific purposes. If you're new to CSS, you'll find the colors there in the syntax: `.spaceBodyBackgroundColor.**[Space body name]**.primary { background-color: rgb(**[Red]**,**[Green]**,**[Blue]**); }`
+
+## For contributors
+The colors are stored in the spaceBodiesColors.php file as a PHP array. To generate the spaceBodiesColors.css file, run the generateSpaceBodiesColorsCss.php PHP script. Do not change the spaceBodiesColors.css. Here's how it works:
+
+##spaceBodiesColors.php## <- Edit this file if you want to change any colors.
+##generateSpaceBodiesColorsCss.php## <- Run this PHP script to generate the spaceBodiesColors.css CSS file (example: '`php -q generateSpaceBodiesColorsCss.php`')
+##spaceBodiesColors.css## <- This is the generated file you can use in your web projects.
 
 # References
 
