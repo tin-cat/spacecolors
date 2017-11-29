@@ -53,9 +53,9 @@ Of course, you can just take a look at the Red, Green and Blue values in the CSS
 ## For contributors
 The colors are stored in the spaceBodiesColors.php file as a PHP array. To generate the spaceBodiesColors.css file, run the generateSpaceBodiesColorsCss.php PHP script. Do not change the spaceBodiesColors.css. Here's how it works:
 
-##spaceBodiesColors.php## <- Edit this file if you want to change any colors.
-##generateSpaceBodiesColorsCss.php## <- Run this PHP script to generate the spaceBodiesColors.css CSS file (example: '`php -q generateSpaceBodiesColorsCss.php`')
-##spaceBodiesColors.css## <- This is the generated file you can use in your web projects.
+* **spaceBodiesColors.php** Edit this file if you want to change any colors.
+* **generateSpaceBodiesColorsCss.php** Run this PHP script to generate the spaceBodiesColors.css CSS file (example: '`php -q generateSpaceBodiesColorsCss.php`')
+* **spaceBodiesColors.css** This is the generated file you can use in your web projects.
 
 # References
 
