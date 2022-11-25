@@ -3,7 +3,7 @@ A CSS repository and experiment to document and explore the real colors of the p
 
 All the colors have been carefully picked after a thorough study from multiple sources (See references) and are considered (by the people contributing to this project) the most accurate colors that represent how the space body would look to a human eye if they were orbiting the body.
 
-See the colors and learn more about the project: https://spacecolors.io
+See the colors and learn more about the project: https://spacecolors.tin.cat
 
 ## Instructions
 You'll find the colors in the spaceBodiesColors.css file. All CSS classes assign the colors as backgrounds. Each space body has three colors and a gradient:
