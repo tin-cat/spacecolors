@@ -1,4 +1,4 @@
-# https://spacecolors.io
+# https://spacecolors.tin.cat
 A CSS repository and experiment to document and explore the real colors of the planets and other space bodies as they might appear to the human eye.
 
 All the colors have been carefully picked after a thorough study from multiple sources (See references) and are considered (by the people contributing to this project) the most accurate colors that represent how the space body would look to a human eye if they were orbiting the body.
@@ -81,4 +81,4 @@ The colors are stored in the spaceBodiesColors.php file as a PHP array. To gener
 
 This work was inspired by the book ["Pale blue dot"](http://amzn.to/2jpFGHW) by Carl Sagan and Gustav Holst's suite ["The Planets"](http://amzn.to/2iaLngF)
 
-This work is licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/), meaning you can use, modify and build upon it even for commercial purposes, as long as you provide credit to the original authors, a link to http://spacecolors.io, for example!
+This work is licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/), meaning you can use, modify and build upon it even for commercial purposes, as long as you provide credit to the original authors, a link to http://spacecolors.tin.cat, for example!
